@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Tremor hits Mexico on earthquake anniversaries",
+          "description": "A 7.6 magnitude earthquake has hit western Mexico on the anniversary of two other quakes in 1985 and 2017.",
+          "url": "http://www.bbc.co.uk/news/world-latin-america-62969295",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/120A/production/_126781640_p0d1cswk.jpg",
+          "publishedAt": "2022-09-20T10:52:24.857902Z",
+          "content": "A powerful earthquake has killed at least one person after a 7.6 magnitude tremor hit western Mexico. \r\nIt took place on 19 September, which is the same date as two other fatal earthquakes in the cou… [+184 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Turkey's Erdogan: Russia's Putin willing to end war",
+          "description": "As Ukraine reclaims more land, the Turkish leader says Russia aims to end the war as soon as possible.",
+          "url": "http://www.bbc.co.uk/news/world-europe-62965993",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A828/production/_126784034_erdogan.jpg",
+          "publishedAt": "2022-09-20T10:52:21.952374Z",
+          "content": "Turkish President Recep Tayyip Erdogan has said he believes Russia's leader is seeking an end to the war he began in Ukraine, and that a \"significant step\" will be made.\r\nHe said his impression from … [+3747 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Justin Trudeau's team defends singing Bohemian Rhapsody before Queen's funeral",
+          "description": "Canada's prime minister was filmed singing in a London hotel wo days before the funeral.",
+          "url": "http://www.bbc.co.uk/news/world-us-canada-62965838",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF8C/production/_126782275_mediaitem126781445.jpg",
+          "publishedAt": "2022-09-20T08:22:17.1071936Z",
+          "content": "By Elsa MaishmanBBC News\r\nJustin Trudeau's office has defended the Canadian PM, after he was filmed singing by a piano in a London hotel, two days before the Queen's funeral. \r\nIn a video shared on s… [+2470 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Sri Lankans freed from Russian brutality in Ukraine",
+          "description": "Seven Sri Lankans say Russian soldiers in Ukraine subjected them to beatings and other abuse.",
+          "url": "http://www.bbc.co.uk/news/world-europe-62948148",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DBFC/production/_126761365_d0d85594-468f-45bf-a249-3ce36445447f.jpg",
+          "publishedAt": "2022-09-20T06:37:20.3103994Z",
+          "content": "By Sofia BettizaBBC News, Kharkiv, Ukraine\r\nUkraine's recapture of the city of Izyum has brought multiple allegations of atrocities under Russian occupation. Among the accounts emerging is that of a … [+3961 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Queen Elizabeth's funeral: For one day, the nation stood still",
+          "description": "In living rooms and parks, pubs and town squares, people marked the Queen's funeral in their own way.",
+          "url": "http://www.bbc.co.uk/news/uk-62960196",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/06A1/production/_126779610_mediaitem126779609.jpg",
+          "publishedAt": "2022-09-20T05:07:22.3259882Z",
+          "content": "By Jon Kelly and BBC reporters BBC News\r\nIt was a day when people stood still - on the streets and in their homes - to witness Queen Elizabeth II's final journey.\r\nRoyals and world leaders were insid… [+6216 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Two dead as Hurricane Fiona devastates Puerto Rico",
+          "description": "Most of the US island's power will take days to restore after flooding and landslides hit.",
+          "url": "http://www.bbc.co.uk/news/world-us-canada-62947900",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EAD5/production/_126771106_mediaitem126771105.jpg",
+          "publishedAt": "2022-09-20T03:07:22.9222827Z",
+          "content": "By Elsa MaishmanBBC News\r\nMedia caption, Watch: Hurricane Fiona flood water destroys Puerto Rican bridge\r\nAt least two people have died in Puerto Rico after Hurricane Fiona caused flooding and landsl… [+2384 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Timed Teaser: What did China say about Russia?",
+          "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+          "url": "http://www.bbc.co.uk/news/world-us-canada-62950715",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15F46/production/_126762998_putxipromo.jpg",
+          "publishedAt": "2022-09-20T03:07:17.4361263Z",
+          "content": "Test your news knowledge against the clock. Can you outscore your friends? \r\nIf you cannot see the quiz, follow this link.\r\nWant more of the same? Try last week's teaser. Or take Friday's quiz of the… [+76 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Nanmadol: Mudslides and flooding as typhoon batters Japan",
+          "description": "Super typhoon Nanmadol has killed at least two people and injured 90 others since Sunday night.",
+          "url": "http://www.bbc.co.uk/news/world-asia-62873980",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8988/production/_126780253_gettyimages-1243349063.jpg",
+          "publishedAt": "2022-09-20T02:37:18.6069114Z",
+          "content": "Rescue workers in Japan have warned of mudslides and flooding as one of the biggest storms in recent decades batters the country. \r\nTyphoon Nanmadol has killed at least two people and injured 90 othe… [+1942 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Off-gridders take energy needs into their own hands",
+          "description": "Natural disasters have spurred some communities and homeowners to generate their own electricity.",
+          "url": "http://www.bbc.co.uk/news/business-62351448",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8875/production/_126633943_4dc6d5c9-a484-4318-8813-f45b4904b7f9.jpg",
+          "publishedAt": "2022-09-20T01:52:24.5598559Z",
+          "content": "By Chris BaraniukTechnology of Business reporter\r\nIn a world where energy supplies can seem increasingly at risk, one couple living in the mountains of British Columbia, Canada, have taken matters in… [+6015 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "BBC News",
+          "title": "Adnan Syed: Conviction overturned in Serial podcast murder case",
+          "description": "Prosecutors last week asked the court to vacate the conviction and release Syed pending a retrial.",
+          "url": "http://www.bbc.co.uk/news/world-us-canada-62963466",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/91B1/production/_126779273_dd4e83fdca073eca992d99463de07e334856fe40.jpg",
+          "publishedAt": "2022-09-19T20:37:20.5538005Z",
+          "content": "By Sam CabralBBC News, Washington\r\nA US judge has overturned the murder conviction of a Baltimore man in a high-profile case that gave rise to the hit true crime podcast Serial.\r\nAdnan Syed was 19 wh… [+1187 chars]"
+      }
+  ]
+}
